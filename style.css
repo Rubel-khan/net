@@ -1,0 +1,151 @@
+* {margin: 0;}
+body {color: #666666;font-family: century Gothic,Arial;font-size: 14px;line-height: 0;}
+.main {display: block;margin:0px auto;width: 960px;}
+.header {background: url("images/img1.jpg") repeat-x scroll 0 0 transparent;height: 171px;position: relative;}
+.a {position: relative;top: -24px;}
+.logo {position: relative;left: 189px;top: 10px;}
+.logo h1 {position: relative;left: 0px;top: 12px;opacity: .9;}
+.search{ position: relative;left: 611px;top: -42px;font-size: 77px;}
+.form input{ position: relative;left: 622px;top: -67px;opacity: .7;width: 185px;height: 19px;}
+.maincontent {background-color: #D3D1CE;height: 533px;position: relative;top: -29px;}
+.privacy{margin: 0;position: relative;font-size: 9px;left: 205px;}
+.give{ border-bottom: 1px solid;opacity: 0.6;position: relative;top: 15px;width: 661px;left: 203px;}
+.country-name{width: 259px;height:31px;border-radius:5px;margin-left: 262px;margin-top: -9px;}
+.country h3{ margin-top: px;position: relative;left: 247px;top: 45px;}
+.name{position: relative;left: 438px;top: 36px;width: 168px;height: 25px;}
+.robi1{position: relative;left: 321px;top: 66px;}
+.rubel {left: 437px;position: relative;top: 57px;}
+.Date {height: 24px;position: relative;width: 50px;}
+.manu {}
+.Month {height: 24px;left: 2px;position: relative;width: 58px;}
+.Year {height: 24px;left: 2px;position: relative;width: 54px;}
+.rubel2{position: relative;left: 619px;top: 43px;}
+.layout {position: relative;left: 366px;top: 85px;}
+.for{left: 437px;position: relative;top: 78px;}
+.control{position: relative;width: 165px;height: 20px;top: -2px}
+.control1{position: relative;width: 165px;height: 20px;top: -2px}
+.for3{left: 437px;position: relative;top: 78px;}
+.layout1 {left: -142px;position: relative;top: 26px;}
+.control2 {height: 20px;position: relative;top: 16px;width: 165px;}
+.control3{height: 20px;position: relative;top: 16px;width: 165px;}
+.for4{left: 482px;position: relative;top: 103px}
+.layout2{left: -142px;position: relative;top: 26px;}
+.control4{height: 21px;position: relative;top: 13px;width: 165px;left: -42px;}
+.control5{height: 21px;position: relative;top: 13px;width: 165px;left: -42px;}
+.for5 {left: 482px;position: relative;top: 103px;}
+.layout3 {left: -271px;position: relative;top: 40px;}
+.control6{height: 19px;left: -42px;position: relative;top: 30px;width: 165px;}
+.control7 {height: 19px;left: -42px;position: relative;top: 30px;width: 165px;}
+.slider {left: 300px;line-height: 1.5;position: relative;top: 160px;}
+.slider1 {font-family: arail;font-size: 17px;line-height: 21px;margin-left: 24px;margin-top: -24px;}
+.slider2 {left: 300px;line-height: 1.5;position: relative;top:177px;}
+.slider3 {font-family: arail;font-size: 16px;margin-left: 26px;margin-top: -23px;}
+.slider4 {position: relative;top:185px;left: 297px;}
+.slider5 {background-color: #006A9B;border: 1px solid;border-radius: 5px 5px 5px 5px;margin-left: 9px;margin-top: 15px;padding: 4px 26px;width: 170px;height: 19px;}
+.slider6 {color: white;text-decoration: none;position: relative;top: 10px;}
+.slider7 {left: 782px;position: relative;top: -33px;}
+.slider8 {color: blue;font-size: 11px;left: 246px;position: relative;top: -16px;}
+.footer{background: url("images/img2.jpg") repeat-x scroll 0 0 transparent;height: 171px;position: relative;top: -29px;}
+.image{}
+.image1 {
+    color: white;
+    font-size: 7px;
+    left: 108px;
+    opacity: 0.7;
+    position: relative;
+    top: 20px;
+}
+.image1 h2 {
+    left: 20px;
+    position: relative;
+    top: -9px;
+}
+.image2 {
+    color: white;
+    font-size: 7px;
+    left: 288px;
+    opacity: 0.7;
+    position: relative;
+    top: -1px;
+}
+.image2 h2 {
+    left: 20px;
+    position: relative;
+    top: -9px;
+}
+.image3 {
+    color: white;
+    font-size: 7px;
+    left: 416px;
+    opacity: 0.7;
+    position: relative;
+    top: -19px;
+}
+.image3 h2 {
+    left: 20px;
+    position: relative;
+    top: -10px;
+}
+.image4 {
+    color: white;
+    font-size: 7px;
+    left: 562px;
+    opacity: 0.7;
+    position: relative;
+    top: -34px;
+}
+.image4 h2 {
+    left: 27px;
+    position: relative;
+    top: -12px;
+}
+.image5 {
+    color: white;
+    font-size: 7px;
+    left: 684px;
+    opacity: 0.7;
+    position: relative;
+    top: -57px;
+}
+.image5 h2 {
+    left: 30px;
+    position: relative;
+    top: -6px;
+}
+.about{ border-bottom: 1px solid;
+    left: 110px;
+    opacity: 0.6;
+    position: relative;
+    top: -46px;
+    width: 739px;}
+	.home{}
+	.home1 {
+    left: 110px;
+    line-height: 17px;
+    position: relative;
+    top: -35px;
+}
+.home2 {
+    left: 275px;
+    line-height: 17px;
+    position: relative;
+    top: -123px;
+}
+.home3 {
+    left: 428px;
+    line-height: 17px;
+    position: relative;
+    top: -205px;
+}
+.home4 {
+    left: 566px;
+    line-height: 17px;
+    position: relative;
+    top: -294px;
+}
+.home5 {
+    left: 736px;
+    line-height: 17px;
+    position: relative;
+    top: -377px;
+}
